@@ -1,7 +1,3 @@
-Aquí tienes la documentación en formato `README.md` para el repositorio `ready-parrot`. Instrucciones detalladas sobre los scripts `ready.sh` (anteriormente `parrot.sh`) y `install.sh` se incluyen para guiar a los usuarios en la instalación y el uso del comando `ready`.
-
-### `README.md`
-
 ```markdown
 # Ready-Parrot
 
