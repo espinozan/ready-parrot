@@ -7,7 +7,7 @@
 
 ## Requisitos
 
-- Sistema operativo basado en Debian o Parrot OS.
+- Sistema operativo Parrot OS y derivados del mismo.
 - Privilegios de sudo para ejecutar algunas de las acciones de mantenimiento.
 
 ## Estructura de Archivos
