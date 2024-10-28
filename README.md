@@ -1,7 +1,7 @@
+### `READY`
+[![GitHub](https://img.shields.io/badge/GitHub-espinozan-blue)](https://github.com/espinozan)
 ```markdown
 # Ready-Parrot
-
-[![GitHub](https://img.shields.io/badge/GitHub-espinozan-blue)](https://github.com/espinozan)
 
 **Ready-Parrot** es una herramienta de línea de comandos para usuarios de sistemas basados en Parrot OS y Debian. Facilita la actualización, limpieza y administración básica del sistema operativo. Con el comando `ready`, puedes ejecutar todo el proceso de mantenimiento del sistema con un solo comando.
 
